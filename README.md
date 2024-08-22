@@ -66,13 +66,20 @@ Küme Metotları
 5.	Mantıksal Operatörler ile Koşul Yapıları
 
 #DERS-4 / PYTHON Döngü Yapıları
+
 Döngüler, belirli bir kod bölümünün birden fazla çalıştırmamıza olanak tanır. Döngüler, genellikle yazılımda tekrar eden işlemler için kullanılır.
+
 Döngü Türleri:
+
 for Döngüsü--> Belirli bir sıralama üzerinde iterasyon yapmak için kullanılır. Genellikle bir liste, dizi veya range fonksiyonu ile kullanılır.
+
 while Döngüsü--> Belirli bir koşul doğru olduğu sürece kod bloğunu çalıştırır.
+
 Döngü Kontrol Yapıları:
+
 break--> Döngüyü tamamen sonlandırır.
 continue--> Döngünün o anki tekrarı-iterasyonunu sonlandırır ve bir sonraki tekrara-iterasyona geçer.
 Döngü İçinde Döngü (İç İçe Döngüler):
+
 İç İçe for Döngüsü
 İç İçe while Döngüsü
