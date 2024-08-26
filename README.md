@@ -85,7 +85,7 @@ Döngü İçinde Döngü (İç İçe Döngüler):
 İç İçe while Döngüsü
 
 #DERS-4 / PYTHON - POINTER, DİZİ / LİSTE, FONKSİYONLAR
-PYTHON Pointer Kavramı - Pointerler Python Programlama dilinde yoktur. Konu bitti :))
+PYTHON Pointer Kavramı - Pointerler Python Programlama dilinde yoktur. 
 ________________________________________
 Pointer C dili öğrenminde çok önemli bir kavramdır. Pointerler C dilinin güçlü öğeleridir. Bir pointer ana bellekte bir adres belirtir. Bazı dillerde ancak assembler dili yardımıyla çözülebilecek pekçok sorun C dilinde pointerler ile kolayca çözülebilir. Ayrıca adres kullanımı çok karmasik veri yapılarınin rahatlikla kullanilmasını sağlar.
 Pointer kavramına yöneltilen eleştirilerden en önemlisi, C diline yeni başlayanlar için çok karmaşık görünmesi ve yazılan programın zor anlaşılır olmasıdır.
