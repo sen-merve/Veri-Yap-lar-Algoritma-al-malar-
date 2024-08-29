@@ -101,3 +101,15 @@ Fonksiyonların Kullanım Nedenleri-->
 3.	Anlaşılabilirlik ve Bakım Kolaylığı
 4.	Yeniden Kullanılabilirlik
 
+# DERS-9  /   SIRALAMA ALGORİTMALARI
+Kabarcık (Bubble) Sıralama Algoritması -> Dizi içerisinde ardışık öğeler karşılaştırılır ve gerektiğinde yer değiştirir.
+
+Seçim (Selection) Sıralama Algoritması -> En küçük veya en büyük öğeyi seçip, onu listenin sonuna yerleştirme işlemidir.
+
+Insertion (Eklemeli) Sıralama Algoritması -> Veriyi sırayla ele alır ve her yeni öğeyi sıralanmış bir alt listeye ekleme işlemidir.
+
+Kova (Bucket) Sıralama Algoritması -> Veriyi birden çok kısmi gruba ayırarak sıralar.
+
+Birleştirmeli (Merge) Sıralama Algoritması -> Böl ve yönet işlemi gerçekleştirilir.
+
+Hızlı (Quick) Sıralama Algoritması -> Böl ve yönet işlemi gerçekleştirilir.
